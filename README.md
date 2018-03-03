@@ -9,8 +9,14 @@
 -  	ja_opendata_cities_prefstat180303.csv: 上記および総務省国勢調査（2015年）都道府県・市区町村別統計表を基に都道府県単位で集計したもの
 
 ## 概略集計
-- オープンデータ都市数（439）／全自治体数（1902）= 23.1%
+- オープンデータ自治体数（264）／全自治体数（1,718）= 15.4%
+- オープンデータ都市数（439）／全都市数（1,902）= 23.1%【政令指定都市の区を含む】
 - オープンデータ都市の人口数（67,320,097人）／人口総数（127,094,745人）= 人口カバー率53.0%
+
+![OpenDataCities_population](images/ODCities_pop.png "OpenDataCities_population")
+
+![OpenDataCities_pop.rate](images/ODCities_rate.png "OpenDataCities_population_rate")
+
 
 ## 使用データ
 - 政府CIOポータル　オープンデータ取組済自治体一覧（平成29年12月20日時点） 
